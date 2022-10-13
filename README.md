@@ -7,6 +7,7 @@ Here are some ideas to get you started: -->
 
 - 📚 I'm currently learning developper cloud learn.udacity.com
 - 🔭 I'm currently working on my several projects developper cloud to improve my skill
+- 🔭 I'm currently loking for job in DevOps security, ingenier network and cybersecurity or Developper cloup
 - 🤔 I’m looking for help with my several project
 - 💬 ASK me about Github
 - 📥 how to reach me : diallo.amadououry011@gmail.com
