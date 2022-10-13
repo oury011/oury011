@@ -11,7 +11,3 @@ Here are some ideas to get you started:
 - 💬 ASK me about Github
 - 📥 how to reach me : diallo.amadououry011@gmail.com
 -->
-
-
-- 💬 ASK me about Github
-- 📥 how to reach me : diallo.amadououry011@gmail.com
